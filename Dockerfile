@@ -1,3 +1,4 @@
+
 FROM haproxy:1.7.2-alpine
 
 ENV HAPROXY_USER haproxy
